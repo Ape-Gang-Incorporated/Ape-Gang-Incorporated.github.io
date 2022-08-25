@@ -15,5 +15,5 @@ npm install
 For local node development, run `npm start`.
 
 # Deployment
-To deploy to github pages, run `npm deploy` and make sure you have push access to this repository. This will compile the
+To deploy to github pages, run `npm run deploy` and make sure you have push access to this repository. This will compile the
 react app and push it to the `gh-pages` branch from which it gets deployed by GitHub.
