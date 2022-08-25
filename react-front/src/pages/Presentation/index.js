@@ -64,7 +64,7 @@ function Presentation() {
         width="100%"
         sx={{
           background: `url(${bgImage}), linear-gradient(
-            315deg, hsl(0deg 0% 0%) 0%,
+            315deg, hsl(0deg 0% 7%) 0%,
             hsl(344deg 0% 14%) 86%,
             hsl(0deg 0% 25%) 100%
           );`,
